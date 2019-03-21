@@ -1,0 +1,121 @@
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.Core.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\MySql.Data.DLL
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.Web.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.Core.xml
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.Web.xml
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.licenses
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nisa'\Documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.Core.xml
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.Web.xml
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\nisa'\Desktop\APLIKASI TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.licenses
+E:\Nisanitip\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Nisanitip\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Nisanitip\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.Core.xml
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.Web.xml
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\yelsa\Desktop\TA\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.licenses
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.manifest
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.application
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.Core.xml
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\GMap.NET.WindowsForms.xml
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.xml
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ZedGraph.Web.xml
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\de\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\es\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\fr\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\hu\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\it\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ja\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\pt\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\ru\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sk\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\sv\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\tr\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.licenses
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.manifest
+E:\1210141001_Choirun Nisa\2. Program\Program dekstop monitoring kualitas air\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.application
